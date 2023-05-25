@@ -1,3 +1,5 @@
+//Ver1
+
 let score = JSON.parse(localStorage.getItem('score')) ||
 {
   wins: 0,
