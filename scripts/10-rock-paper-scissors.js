@@ -1,4 +1,4 @@
-//Ver1
+//Ver1.1
 
 let score = JSON.parse(localStorage.getItem('score')) ||
 {
